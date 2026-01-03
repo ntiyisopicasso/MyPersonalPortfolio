@@ -46,8 +46,9 @@ const HeroSection = () => {
               </a>
             </Button>
             <Button variant="outline" size="lg" className="hover:bg-primary hover:text-primary-foreground">
+               <a href="https://wa.me/+27609375034">
               <Download className="mr-2" size={20} />
-              Download CV
+              WhatsApp me
             </Button>
           </div>
         </div>
