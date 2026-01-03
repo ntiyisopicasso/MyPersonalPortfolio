@@ -11,19 +11,19 @@ const SocialLinks = () => {
     },
     { 
       icon: Linkedin, 
-      href: "https://linkedin.com/in/ntiyiso-manganyi", 
+      href: "https://linkedin.com/", 
       label: "LinkedIn",
       hoverColor: "hover:text-primary-glow"
     },
     { 
       icon: Twitter, 
-      href: "https://twitter.com/picasso_dev", 
+      href: "https://twitter.com/", 
       label: "Twitter",
       hoverColor: "hover:text-primary-glow"
     },
     { 
       icon: Instagram, 
-      href: "https://instagram.com/picasso_dev", 
+      href: "https://instagram.com/", 
       label: "Instagram",
       hoverColor: "hover:text-accent-glow"
     },
