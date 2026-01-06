@@ -1,18 +1,22 @@
-import HeroSection from "@/components/HeroSection";
-import SkillsSection from "@/components/SkillsSection";
-import ProjectsSection from "@/components/ProjectsSection";
-import ContributionGraph from "@/components/ContributionGraph";
-import SocialLinks from "@/components/SocialLinks";
+import Hero from "@/components/Hero";
+import SocialSidebar from "@/components/SocialSidebar";
+import Skills from "@/components/Skills";
+import GitHubActivity from "@/components/GitHubActivity";
+import Projects from "@/components/Projects";
+import Contact from "@/components/Contact";
+import Footer from "@/components/Footer";
 
 const Index = () => {
   return (
-    <div className="min-h-screen bg-background">
-      <SocialLinks />
-      <HeroSection />
-      <SkillsSection />
-      <ContributionGraph />
-      <ProjectsSection />
-    </div>
+    <main className="min-h-screen bg-background overflow-x-hidden">
+      <SocialSidebar />
+      <Hero />
+      <Skills />
+      <GitHubActivity />
+      <Projects />
+      <Contact />
+      <Footer />
+    </main>
   );
 };
 
