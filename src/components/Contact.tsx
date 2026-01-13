@@ -157,7 +157,7 @@ const Contact = () => {
           <div className="text-center pt-4">
             <p className="text-muted-foreground text-sm flex items-center justify-center gap-2">
               <Mail className="h-4 w-4" />
-              Or email me directly at{" "}
+              Mail{" "}
               <a href="mailto:ntiyisopicasso@icloud.com" className="text-primary hover:underline">
                 ntiyisopicasso@icloud.com
               </a>
