@@ -150,9 +150,8 @@ const Footer = () => {
           transition={{ delay: 0.3, duration: 0.6 }}
         >
           <p className="text-muted-foreground text-sm flex items-center gap-2">
-            © {currentYear} Ntiyiso Picasso. Made with{" "}
-            <Heart className="w-4 h-4 text-destructive fill-destructive animate-pulse" />{" "}
-            in South Africa
+            © {currentYear} Ntiyiso Picasso
+            <Heart className="w-4 h-4 text-destructive fill-destructive animate-pulse" />
           </p>
 
           <Button
