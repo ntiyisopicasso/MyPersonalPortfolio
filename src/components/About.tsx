@@ -17,13 +17,23 @@ const timelineData: TimelineItem[] = [
     type: "education",
     title: "BSc Mathematics & Computer Science",
     organization: "University of Limpopo",
-    period: "2022 - Present",
+    period: "2023 - 2024",
     description:
-      "Currently pursuing a Bachelor of Science degree with a focus on Mathematics and Computer Science. Developing strong foundations in algorithms, data structures, and mathematical problem-solving.",
+      " Bachelor of Science degree with a focus on Mathematics and Computer Science. Developing strong foundations in algorithms, data structures, and mathematical problem-solving.",
     skills: ["Python", "Java", "Data Structures", "Algorithms", "Mathematics"],
   },
   {
     id: "2",
+    type: "education",
+    title: "Doploma in Computer Sciences",
+    organization: "Tshwane University of Technology",
+    period: "2026-present",
+    description:
+      "Currently pursuing a diploma in computer sciences";
+    skills: ["Python", "Java", "Data Structures", "Algorithms", "Mathematics"],
+  },
+  {
+    id: "3",
     type: "work",
     title: "Freelance Web Developer",
     organization: "Self-Employed",
@@ -33,9 +43,9 @@ const timelineData: TimelineItem[] = [
     skills: ["React", "TypeScript", "Tailwind CSS", "Node.js"],
   },
   {
-    id: "3",
+    id: "4",
     type: "education",
-    title: "High School Diploma",
+    title: "Mahonisi christian learining center";
     organization: "Matric Graduate",
     period: "2021",
     description:
