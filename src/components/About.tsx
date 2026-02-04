@@ -27,10 +27,10 @@ const timelineData: TimelineItem[] = [
     type: "education",
     title: "Doploma in Computer Sciences",
     organization: "Tshwane University of Technology",
-    period: "2026-present",
+    period: "2026 - present",
     description:
       "Currently pursuing a diploma in computer sciences";
-    skills: ["Python", "Java", "Data Structures", "Algorithms", "Mathematics"],
+    skills: ["java"],
   },
   {
     id: "3",
